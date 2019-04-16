@@ -1,0 +1,10 @@
+.Section {
+	width: 100%;
+	padding: 0 5em;
+	transition: .25s ease-in;
+}
+
+hr {
+	height: 1px;
+	background: #eee;
+}
